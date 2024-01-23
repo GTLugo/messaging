@@ -1,5 +1,6 @@
  # A simple two-way messaging crate
- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R8PGIU6)
+[![Static Badge](https://img.shields.io/badge/crates.io-messaging?style=for-the-badge&color=E5AB37)](https://crates.io/crates/messaging)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R8PGIU6)
  
 Good for use cases such as communication across two threads.
 
